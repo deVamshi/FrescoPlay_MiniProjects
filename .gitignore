@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React.js
+build/
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Production build
+/dist/
+/build/
+/out/
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+
+# Miscellaneous
+.sass-cache/
+*.swp
+*.swo
