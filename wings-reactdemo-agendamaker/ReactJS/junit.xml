@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="10" failures="0" errors="0" time="3.161">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-12-08T12:10:53" time="2.686" tests="10">
+    <testcase classname=" should display initial UI" name=" should display initial UI" time="0.22">
+    </testcase>
+    <testcase classname=" form validation - invalid" name=" form validation - invalid" time="0.141">
+    </testcase>
+    <testcase classname=" form validation - valid add btn" name=" form validation - valid add btn" time="0.123">
+    </testcase>
+    <testcase classname=" form validation - invalid submit" name=" form validation - invalid submit" time="0.155">
+    </testcase>
+    <testcase classname=" form validation - valid submit" name=" form validation - valid submit" time="0.223">
+    </testcase>
+    <testcase classname=" toggle view check" name=" toggle view check" time="0.088">
+    </testcase>
+    <testcase classname=" check form inputs" name=" check form inputs" time="0.193">
+    </testcase>
+    <testcase classname=" check view agenda" name=" check view agenda" time="0.053">
+    </testcase>
+    <testcase classname=" add and view the agenda" name=" add and view the agenda" time="0.256">
+    </testcase>
+    <testcase classname=" add and view the agenda - 2" name=" add and view the agenda - 2" time="0.485">
+    </testcase>
+  </testsuite>
+</testsuites>
